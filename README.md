@@ -1,4 +1,4 @@
-# liquid_animation
+# Flutter Animation
 
 A new Flutter project.
 
